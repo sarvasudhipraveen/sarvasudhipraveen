@@ -30,7 +30,7 @@ My aim is to apply my technical knowledge to solve real-world problems, continuo
 
 - **Sri Vasavi Engineering College**  
   *B.Tech in Artificial Intelligence and Machine Learning*  
-  *2021 - 2024*
+  *2024- 2027*
 
 ---
 
@@ -40,9 +40,8 @@ My aim is to apply my technical knowledge to solve real-world problems, continuo
 - C++
 - Java
 - Python
-
+- C
 ### Frameworks & Libraries:
-- Django
 - ReactJS
 
 ### Technologies:
