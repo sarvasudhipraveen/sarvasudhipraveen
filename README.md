@@ -26,7 +26,7 @@ My aim is to apply my technical knowledge to solve real-world problems, continuo
 - **Smt. B. Seetha Polytechnic**  
   *Diploma in Computer Engineering*  
   *Grade: 88.52%*  
-  *Graduated in 2021*
+  
 
 - **Sri Vasavi Engineering College**  
   *B.Tech in Artificial Intelligence and Machine Learning*  
