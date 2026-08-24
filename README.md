@@ -1,106 +1,70 @@
-# Sarvasudhi Praveen Srinivas
+<div align="center">
 
-Welcome to my GitHub profile! I am Sarvasudhi Praveen Srinivas, a passionate and motivated individual with a strong foundation in Computer Engineering and an emerging interest in Artificial Intelligence and Machine Learning. I am always seeking to learn and apply my technical skills in innovative and challenging environments.
+# Hi there, I'm Praveen Srinivas 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+Problem+Solver;Open+Source+Enthusiast;Building+cool+things+with+code)](https://git.io/typing-svg)
 
-## Contact Information
-
-- **Phone:** +919010256748
-- **Email:** [praveensrinivas85@gmail.com](mailto:praveensrinivas85@gmail.com)
-- **Address:** 3/41/13 Nandi Bomma Centre, Tadepalligudem 534101, India
-
----
-
-## Objective
-
-My aim is to apply my technical knowledge to solve real-world problems, continuously improve my skills, and contribute to meaningful projects in the field of Artificial Intelligence and Software Development.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
-## Education
+</div>
 
-- **Mahati E.M. School**  
-  *Grade: 10/10*
+### 🚀 About Me
 
-- **Smt. B. Seetha Polytechnic**  
-  *Diploma in Computer Engineering*  
-  *Grade: 88.52%*  
-  
-
-- **Sri Vasavi Engineering College**  
-  *B.Tech in Artificial Intelligence and Machine Learning*  
-  *2024- 2027*
+- 🔭 I’m currently working on **[Project Name / Tech Domain]**
+- 🌱 I’m currently learning **[New Framework, Cloud, AI/ML, etc.]**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, or Web Development**
+- ⚡ Fun fact: **[Add a fun personal or coding fact here!]**
 
 ---
 
-## Skills
+### 🛠️ Tech Stack & Tools
 
-### Programming Languages:
-- C++
-- Java
-- Python
-- C
-### Frameworks & Libraries:
-- ReactJS
+<div align="center">
 
-### Technologies:
-- CSS
-- HTML
-- JavaScript
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,git,github,docker,postgres,mongodb,vscode" />
+</a>
 
-### Core Coursework:
-- Data Structures & Algorithms
-- Design and Analysis of Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Database Management Systems
-- Computer Networks
+</div>
 
 ---
 
-## Projects
+### 📊 GitHub Statistics
 
-1. **Fraud Detection in Banking Data Using Machine Learning**  
-   Developed a machine learning-based system to identify and detect fraudulent transactions in banking data.
+<div align="center">
 
-2. **Tourism Website**  
-   A fully functional tourism website providing users with features like booking, reviews, and recommendations for planning trips.
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
 
----
+<br/>
 
-## Achievements & Certifications
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&background=0f172a" alt="GitHub Streak" />
 
-- **Udemy**: Completion Certificate in Python and Data Structures
-- **GUVI**: Completion Certificate in Generative AI
-- **My Access Private Limited**: Completion Certificate in Python Full Stack Development
+</div>
 
 ---
 
-## Interests
+### 🌟 Featured Projects
 
-- Problem Solving
-- Learning New Technologies
-- Reading Books
-
----
-
-## Languages
-
-- **Telugu:** Native
-- **English:** Fluent
-- **Hindi:** Intermediate
+| Project | Description | Tech Stack | Live / Repo |
+| :--- | :--- | :--- | :--- |
+| **🚀 Project One** | Short description of what this project does and problems it solves. | `React` `Node.js` `PostgreSQL` | [Live Demo](https://example.com) / [Code](https://github.com) |
+| **⚡ Project Two** | Short description of another cool repository or web application. | `Next.js` `Tailwind` `TypeScript` | [Live Demo](https://example.com) / [Code](https://github.com) |
 
 ---
 
-## Personal Details
+### 🐍 GitHub Contribution Snake
 
-- **Date of Birth:** 09/11/2004
-- **Gender:** Male
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
----
-
-Feel free to explore my repositories, contributions, and projects! I’m open to collaboration, learning opportunities, and new challenges. Let’s connect and build something amazing together.
-
-Thank you for visiting my GitHub profile!
-
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Praveen Srinivas</a></i>
+</p>
