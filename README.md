@@ -23,19 +23,19 @@
 ## 👨‍💻 Executive Summary
 
 ```yaml
-name: S. Praveen Srinivas
-role: Software Developer | AI/ML Engineer | SAP ABAP Cloud Developer
-portfolio: https://spectral-web.lovable.app/
-email: praveensrinivas85@gmail.com
-contact: +91-9010256748
-location: Tadepalligudem, Andhra Pradesh, India
-education: B.Tech in AI & Machine Learning @ Sri Vasavi Engg College (CGPA: 8.13/10)
-certifications:
+Name: S. Praveen Srinivas
+Role: Software Developer | AI/ML Engineer | SAP ABAP Cloud Developer
+Portfolio: https://spectral-web.lovable.app/
+Email: praveensrinivas85@gmail.com
+Contact: +91-9010256748
+Location: Tadepalligudem, Andhra Pradesh, India
+Education: B.Tech in AI & Machine Learning @ Sri Vasavi Engg College (CGPA: 8.13/10)
+Certifications:
   - SAP Certified Back-End Developer (ABAP Cloud - C_ABAPD_2601)
   - Cisco Intro to Modern AI
   - NPTEL Internet of Things (IoT)
-problem_solving: 600+ DSA Problems Solved (400+ GeeksforGeeks | 200+ LeetCode)
-interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack Web Apps
+Problem_Solving: 600+ DSA Problems Solved (400+ GeeksforGeeks | 200+ LeetCode)
+Interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack Web Apps
 ```
 
 - 🏅 **SAP Certified Back-End Developer (ABAP Cloud)** proficient in the **ABAP RESTful Application Programming Model (RAP)** and **Clean Core Principles** for SAP S/4HANA Extensions.
