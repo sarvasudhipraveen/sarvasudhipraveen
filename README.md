@@ -61,10 +61,28 @@
 
 ### 🐍 GitHub Contribution Snake
 
+## 📊 Activity & Contribution Analytics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <!-- 1. Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f43f5e&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+
+  <br/><br/>
+
+  <!-- 2. Stats & Streaks -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&background=0f172a" alt="Streak" />
+
+  <br/><br/>
+
+  <!-- 3. Top Languages & Trophies -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- 4. Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin_w=6&column=7" alt="Trophies" width="90%" />
+
 </div>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Praveen Srinivas</a></i>
-</p>
